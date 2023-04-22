@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2KR5mkHwum2B9hleioSKsYtMH570aRiGXL1VomaRu0MfhBBPlzKn3JIO5vFWgHiD67zuaEWumrajFUi69SJRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arun5\\Code\\JenkinsApp\\JenkinsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arun5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
